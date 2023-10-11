@@ -326,6 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 #nav-menu-container {
   float: right;
   margin: 0;
+  background-color: #242323;
 }
 
 @media (min-width: 1024px) {
