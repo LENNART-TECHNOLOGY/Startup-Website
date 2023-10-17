@@ -1,3 +1,2 @@
-forked from  <b> 
-      <a href="https://github.com/Lakshya-Saini/Startup-Website" > Lakshya-Saini/Startup-Website </a>
-             </b>
+# startup
+A random startup website generator by Mike Bradley and Tiff Zhang. 
